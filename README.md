@@ -4,32 +4,19 @@ A simple, responsive web dashboard that displays real-time COVID-19 statistics u
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#features)  
-- [Tech Stack](#tech-stack)  
-- [Setup & Launch](#setup--launch)  
-- [Deployment](#deployment)  
-- [Folder Structure](#folder-structure)  
-- [License](#license)  
-
----
-
 ## ✨ Features
 
-- Fetches live COVID-19 data from [api.rootnet.in](https://api.rootnet.in/covid19-in/stats/latest)  
+- Live data fetch from [api.rootnet.in](https://api.rootnet.in/covid19-in/stats/latest)  
 - Shows total confirmed cases, recoveries, and deaths for India  
-- Displays state-wise data in a sortable table  
-- Responsive layout via Bootstrap  
+- State-wise data displayed in a table with sorting functionality  
+- Mobile-responsive layout via Bootstrap  
 
 ---
 
-## 💻 Tech Stack
+## 💾 Files
 
-- **HTML5** (`index.html`)  
-- **Bootstrap v5** (CDN)  
-- **JavaScript** (`script.js`)  
-- **Axios** for API calls (CDN)  
+- `Covid19.html` (main dashboard page)  
+- `covid19-dashboard.png` (dashboard screenshot)  
 
 ---
 
@@ -38,4 +25,7 @@ A simple, responsive web dashboard that displays real-time COVID-19 statistics u
 1. **Navigate to your project folder**  
    ```bash
    cd "C:/Users/HP/OneDrive/Desktop/2025/CodingSeekhoLiveBatch/Javascript/covid19-dashboard"
+
+
+
 
